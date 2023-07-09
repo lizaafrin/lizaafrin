@@ -1,5 +1,5 @@
 
-![Web Developer](C:.\Web developement practice\Liza\Others\Images\Untitled.png)
+![Web Developer](https://ibb.co/2cK9nm7)
 
 ## Hi there 👋, I'm Liza Afrin!
 #### I'm a Full stack Wev Developer
