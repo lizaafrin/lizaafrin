@@ -1,5 +1,5 @@
 
-![Web Developer](C:\Web developement practice\Liza\Others\Images\Untitled.png)
+![Web Developer](C:.\Web developement practice\Liza\Others\Images\Untitled.png)
 
 ## Hi there 👋, I'm Liza Afrin!
 #### I'm a Full stack Wev Developer
