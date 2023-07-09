@@ -18,6 +18,7 @@
 ## Connect with me
 <p align="justify-center">
 <a href="https://linkedin.com/in/liza-afrin-313b38146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liza-afrin-313b38146/" height="30" width="40" /></a>
+<a href="https://fb.com/liza.afrin.1804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="liza.afrin.1804" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
