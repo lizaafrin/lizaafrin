@@ -1,2 +1,2 @@
 ### Hi there 👋, I'm Liza Afrin!
-#### Wev Developer
+#### I'm a Full stack Wev Developer with React and MongoDB 
