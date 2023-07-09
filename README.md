@@ -1,5 +1,5 @@
 
-![Web Developer](https://ibb.co/2cK9nm7)
+![Web Developer](https://i.ibb.co/xz5kCPS/Untitled.png)
 
 ## Hi there 👋, I'm Liza Afrin!
 #### I'm a Full stack Wev Developer
