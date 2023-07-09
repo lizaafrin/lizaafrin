@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Liza Afrin!
-#### I'm a Full stack Wev Developer with React and MongoDB
+#### I'm a Full stack Wev Developer
 ![Web Developer](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png)
 
 - ✒ Love to write code
