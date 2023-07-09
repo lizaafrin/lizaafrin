@@ -1,5 +1,5 @@
 
-![Web Developer](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png)
+![Web Developer](C:\Web developement practice\Liza\Others\Images\Untitled.png)
 
 ## Hi there 👋, I'm Liza Afrin!
 #### I'm a Full stack Wev Developer
