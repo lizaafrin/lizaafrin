@@ -7,13 +7,15 @@
 - 📝 Like to share my knowledge
 - 👨‍💻 My Portfolio [https://liza-afrin.netlify.app](https://liza-afrin.netlify.app)
 
+
 ## Skills and Experiences
 - ✔ React
 - ✔ Tailwind CSS
 - ✔ Express.Js
 - ✔ MongoDB
 
-<h3 align="left">Connect with me:</h3>
+
+## Connect with me
 <p align="justify-center">
 <a href="https://linkedin.com/in/liza-afrin-313b38146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liza-afrin-313b38146/" height="30" width="40" /></a>
 </p>
