@@ -1,6 +1,4 @@
-![Header](./https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png)
-
-### Hi there 👋, I'm Liza Afrin!
+## Hi there 👋, I'm Liza Afrin!
 #### I'm a Full stack Wev Developer with React and MongoDB
 
 - ✒ Love to write code
