@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Liza Afrin!
 #### I'm a Full stack Wev Developer with React and MongoDB
-<li>
-  love to code
-</li>
+
+- ✒ Love to write code
+- 📝 Like to share my knowledge
 
 - 👨‍💻 My Portfolio [https://liza-afrin.netlify.app](https://liza-afrin.netlify.app)
 
