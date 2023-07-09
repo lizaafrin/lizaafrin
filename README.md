@@ -1,11 +1,17 @@
-## Hi there 👋, I'm Liza Afrin!
-#### I'm a Full stack Wev Developer
+
 ![Web Developer](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png)
 
+## Hi there 👋, I'm Liza Afrin!
+#### I'm a Full stack Wev Developer
 - ✒ Love to write code
 - 📝 Like to share my knowledge
-
 - 👨‍💻 My Portfolio [https://liza-afrin.netlify.app](https://liza-afrin.netlify.app)
+
+## Skills and Experiences
+- ✔ React
+- ✔ Tailwind CSS
+- ✔ Express.Js
+- ✔ MongoDB
 
 <h3 align="left">Connect with me:</h3>
 <p align="justify-center">
